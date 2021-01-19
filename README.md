@@ -19,7 +19,7 @@
 
 ## Installation
 *Steps required to install project and get the development environment established:*
-* undefined
+* Make a clone of this repo into a new repo of your own. There is only an html, css and js file so once you have that installed into your repo you can publish your site and it will function as shown in the usage section. 
 
 ## Usage
 *Instructions and examples for use:* 
@@ -34,7 +34,7 @@
 * Built & designed by Tomara Petty
 
 ## Test
-* No tests necessary.
+* Simple site, no tests necessary.
 
 ## Questions?
 <img src="https://avatars0.githubusercontent.com/u/65513543?s=460&u=20bf726727263d5c2cb42b357ae261aff2a38e6e&v=4" alt="GitHub profile image">
