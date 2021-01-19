@@ -25,7 +25,7 @@
 *Instructions and examples for use:* 
 * The user may click through the images to reveal the text and image. When the user clicks to another image that image will become active and the text will appear. The previous image will become inactive and the text will disappear.
 
-<img src="undefined">
+<img src="images/card-expander.gif">
 
 ## License 
 * MIT
@@ -41,4 +41,5 @@
 
 * If you have any questions or want to make a contribution please reach out to me here: 
 * GitHub: @TomaraPetty 
-* Email: undefined
+* Email: tomara.petty@gmail.com
+* LinkedIn: https://www.linkedin.com/in/tomara-petty/
