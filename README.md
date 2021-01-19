@@ -19,7 +19,7 @@
 
 ## Installation
 *Steps required to install project and get the development environment established:*
-* Make a clone of this repo into a new repo of your own. There is only an html, css and js file so once you have that installed into your repo you can publish your site and it will function as shown in the usage section. 
+* Make a clone of this repo into a new repo of your own. There is only an html, css, js and images file so once you have that installed into your repo you can publish your site and it will function as shown in the usage section. 
 
 ## Usage
 *Instructions and examples for use:* 
