@@ -2,7 +2,7 @@
   
 ![GitHub](https://img.shields.io/badge/license-MIT-green)
 
-<a href="undefined">Click here to see it in action.</a>
+<a href="https://tomarapetty.github.io/expanding-cards/">Click here to see it in action.</a>
 
 ## Table of Contents
 * [Description](#description)
